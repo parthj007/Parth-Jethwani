@@ -25,5 +25,7 @@ public class Student{
 		System.out.println("Parth Age is:-"+Parth.Age);
 		System.out.println("Parth City is:-"+Parth.City);
 		
+		
+
 	}
 }
